@@ -1,7 +1,7 @@
 /*
  * FileChooserOption.java
  *
- * OldPortal Framework library.
+ * OldPortal Framework Library is available under the MIT License. See http://opensource.org/licenses/MIT for full text.
  *
  * Copyright (C) Dmitry Ognyannikov, 2005
  */

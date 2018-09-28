@@ -1,7 +1,7 @@
 /*
  * Document.java
  *
- * OldPortal Framework library.
+ * OldPortal Framework Library is available under the MIT License. See http://opensource.org/licenses/MIT for full text.
  *
  * Copyright (C) Dmitry Ognyannikov, 2005
  */
@@ -11,7 +11,8 @@ package com.oldportal.framework;
 import com.oldportal.framework.undoredo.*;
 
 /**
- * Document class in MDI architecture
+ * Document class in MDI architecture.
+ * 
  * @author Dmitry Ognyannikov
  */
 public class Document extends BaseObject {

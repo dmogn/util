@@ -1,7 +1,7 @@
 /*
  * History.java
  *
- * OldPortal Framework library.
+ * OldPortal Framework Library is available under the MIT License. See http://opensource.org/licenses/MIT for full text.
  *
  * Copyright (C) Dmitry Ognyannikov, 2005
  */
@@ -12,6 +12,7 @@ import com.oldportal.framework.BaseObject;
 
 /**
  * History release Undo/Redo support for document.
+ * 
  * @author Dmitry Ognyannikov
  */
 public class History {

@@ -1,3 +1,9 @@
+/* 
+ * OldPortal Utilites Library is available under the MIT License. See http://opensource.org/licenses/MIT for full text.
+ *
+ * Copyright (C) Dmitry Ognyannikov, 2005
+*/
+
 package com.oldportal.util;
 
 public final class  Base64 {

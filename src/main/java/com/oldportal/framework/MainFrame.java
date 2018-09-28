@@ -1,7 +1,7 @@
 /*
  * MainFrame.java
  *
- * OldPortal Framework library.
+ * OldPortal Framework Library is available under the MIT License. See http://opensource.org/licenses/MIT for full text.
  *
  * Copyright (C) Dmitry Ognyannikov, 2005
  */
@@ -13,6 +13,7 @@ import java.awt.event.WindowAdapter;
 
 /**
  * The Main Frame for document views.
+ * 
  * @author Dmitry Ognyannikov
  */
 public class MainFrame extends javax.swing.JFrame {

@@ -1,7 +1,7 @@
 /*
  * ViewsFramework.java
  *
- * OldPortal Framework library.
+ * OldPortal Framework Library is available under the MIT License. See http://opensource.org/licenses/MIT for full text.
  *
  * Copyright (C) Dmitry Ognyannikov, 2005
  */
@@ -10,6 +10,7 @@ package com.oldportal.framework;
 
 /**
  * Framework for DocumentViews.
+ * 
  * @author Dmitry Ognyannikov
  */
 public class ViewsFramework extends javax.swing.JTabbedPane {

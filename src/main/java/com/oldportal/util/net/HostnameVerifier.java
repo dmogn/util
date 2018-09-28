@@ -1,12 +1,17 @@
+/* 
+ * OldPortal Utilites Library is available under the MIT License. See http://opensource.org/licenses/MIT for full text.
+ *
+ * Copyright (C) Dmitry Ognyannikov, 2005
+*/
+
 package com.oldportal.util.net;
 
 import javax.net.ssl.SSLSession;
 
 /**
- * Заглушка верификатора имени хоста SSL соединения.
- *
+ * The stub for SSL hostname verification. "Permit All" mode.
+ * 
  * @author Dmitry Ognyannikov
- * @version 3.4
  */
 public class HostnameVerifier implements javax.net.ssl.HostnameVerifier {
     public HostnameVerifier() {

@@ -1,7 +1,7 @@
 /*
  * Clipboard.java
  *
- * OldPortal Framework library.
+ * OldPortal Framework Library is available under the MIT License. See http://opensource.org/licenses/MIT for full text.
  *
  * Copyright (C) Dmitry Ognyannikov, 2005
  */
@@ -10,6 +10,7 @@ package com.oldportal.framework;
 
 /**
  * Operations with system clipboard.
+ * 
  * @author Dmitry Ognyannikov
  */
 public class Clipboard {

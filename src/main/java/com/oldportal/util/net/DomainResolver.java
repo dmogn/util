@@ -1,19 +1,18 @@
+/* 
+ * OldPortal Utilites Library is available under the MIT License. See http://opensource.org/licenses/MIT for full text.
+ *
+ * Copyright (C) Dmitry Ognyannikov, 2005
+*/
+
 package com.oldportal.util.net;
 
 import javax.naming.directory.*;
 import java.net.*;
 
 /**
- * <p>Title: Payment terminal</p>
- *
- * <p>Description: Payment terminal embedded software</p>
- *
- * <p>Copyright: Copyright (c) Dmitry Ognyannikov, 2005-2007</p>
- *
- * <p>Company: MediaPlat</p>
- *
+ * DNS network operations. 
+ * 
  * @author Dmitry Ognyannikov
- * @version 3.5
  */
 public class DomainResolver {
 
